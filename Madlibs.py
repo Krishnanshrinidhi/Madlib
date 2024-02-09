@@ -42,7 +42,7 @@ def madlib3():
     Adjective3 = input('Enter one more Adjective: ')
     Animal2 = input('Enter another Animal: ')
     print("")
-    print('Once upon a time, in a ' + Adjective1 + ' land far, far away, there lived a peculiar ' + Noun + ' named Mr. Wiggles. He was always ' + Verb1 + ' ' +  Adverb + ' and causing chaos wherever he went. One day, he decided to take his ' + Animal1 + ' for a walk in the ' + Adjective2 + ' park. Suddenly, he ' + Verb2 + ' over a banana peel and did not just fall once, not twice, but ' + Number + ' times! The whole incident was ' + Adjective3 + ' hilarious that even the nearby ' + Animal2 + " goofycouldn't help but laugh along.")  
+    print('Once upon a time, in a ' + Adjective1 + ' land far, far away, there lived a peculiar ' + Noun + ' named Mr. Wiggles. He was always ' + Verb1 + ' ' +  Adverb + ' and causing chaos wherever he went. One day, he decided to take his ' + Animal1 + ' for a walk in the ' + Adjective2 + ' park. Suddenly, he ' + Verb2 + ' over a banana peel and did not just fall once, not twice, but ' + Number + ' times! The whole incident was ' + Adjective3 + ' hilarious that even the nearby ' + Animal2 + " couldn't help but laugh along.")  
 Button(root, text= 'The Hilarious Pizza Delivery', font ='arial 15', command= madlib1, bg = 'red').place(x=25, y=120)
 Button(root, text= 'Saga of the Flying Banana', font ='arial 15', command = madlib2 , bg = 'yellow').place(x=30, y=180)
 Button(root, text= 'Misadventures of Mr Wiggles', font ='arial 15', command = madlib3, bg = 'ghost white').place(x=17, y=240)
