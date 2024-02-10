@@ -29,7 +29,7 @@ def madlib2():
     adjective2= input('Enter another adjective: ')
     adjective3 = input('Enter one more adjective: ')
     print("")
-    print('Once upon a time, in a land far, far away, there was a flying banana named '+ Name + '.' + Name + ' was famous for their ability to ' + Verb1 + ' through the sky with ' + adjective1 + ' speed. One sunny day, while soaring above the ' + Place + ',' + Name + 'encountered a mischievous ' + animal + ' who challenged them to a race. Determined to prove their ' + adjective2 + ' prowess, ' + Name + ' accepted the challenge and zoomed ahead with ' + adjective3 + ' determination. Despite facing ' + adjective2 + ' obstacles along the way, ' + Name + ' emerged victorious, earning the admiration of all who witnessed the wacky race.')
+    print('Once upon a time, in a land far, far away, there was a flying banana named '+ Name + '.' + Name + ' was famous for their ability to ' + Verb1 + ' through the sky with ' + adjective1 + ' speed. One sunny day, while soaring above the ' + Place + ',' + Name + ' encountered a mischievous ' + animal + ' who challenged them to a race. Determined to prove their ' + adjective2 + ' prowess, ' + Name + ' accepted the challenge and zoomed ahead with ' + adjective3 + ' determination. Despite facing ' + adjective2 + ' obstacles along the way, ' + Name + ' emerged victorious, earning the admiration of all who witnessed the wacky race.')
 def madlib3():
     Adjective1 = input('Enter a Silly Adjective: ')
     Noun = input('Enter a Noun: ')
